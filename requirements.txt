@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+sqlite3
+zipfile
+io
+re
+transformers
+pdf2image
+base64
+
